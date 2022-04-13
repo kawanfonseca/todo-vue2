@@ -1,5 +1,7 @@
 # vue_crash_todolist
 
+This is available at https://todo-vue2-eight.vercel.app/
+
 ## Project setup
 ```
 npm install
